@@ -3,6 +3,7 @@
 A Data-Driven Power BI Dashboard analyzing Indian Railways Route Efficiency & Distance Performance using Open Government Data.
 
 ---
+<img width="1525" height="845" alt="image" src="https://github.com/user-attachments/assets/59b2e2c2-dd85-4a97-a50e-501970b89bc2" />
 
 ## 📊 Key Project Insights
 
