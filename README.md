@@ -1,9 +1,13 @@
 # 🚂 Indian Rail Network Analytics
 
 A Data-Driven Power BI Dashboard analyzing Indian Railways Route Efficiency & Distance Performance using Open Government Data.
+
+---
+
 ## 🖥️ Dashboard Overview
 
 ![Power BI Dashboard](dashboard.png)
+
 ---
 
 ## 📊 Key Project Insights
