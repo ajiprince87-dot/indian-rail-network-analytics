@@ -4,12 +4,6 @@ A Data-Driven Power BI Dashboard analyzing Indian Railways Route Efficiency & Di
 
 ---
 
-## 🖥️ Dashboard Overview
-
-![Power BI Dashboard](dashboard.png)
-
----
-
 ## 📊 Key Project Insights
 
 * **Total Train Volume:** The network manages a massive total of **186.12K trains**, indicating highly dense railway operations.
